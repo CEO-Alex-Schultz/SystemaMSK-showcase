@@ -50,7 +50,6 @@
 <div align="center">
   <img src="https://systemamsk.ru/images/logo1.png" alt="System MSK screenshot placeholder" width="600"/>
   <br/>
-  <sub>⚠️ замени на реальный скриншот главной страницы</sub>
 </div>
 
 ## Контакты компании
