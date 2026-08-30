@@ -51,7 +51,7 @@
 ## Скриншот
 
 <div align="center">
-  <img src="https://systemamsk.ru/images/logo1.png" alt="System MSK screenshot placeholder" width="600"/>
+  <img width="1900" height="939" alt="image" src="https://github.com/user-attachments/assets/20d89443-f869-48af-949f-b48c0c6d1d8b" />
   <br/>
 </div>
 
