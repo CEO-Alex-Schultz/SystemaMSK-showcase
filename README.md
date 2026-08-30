@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://systemamsk.ru/images/logo1.png" alt="System MSK Logo" width="140"/>
 
-  # System MSK - корпоративный сайт IT-интегратора
+  # Systema MSK - корпоративный сайт IT-интегратора
 
   ![Status](https://img.shields.io/badge/status-в%20эксплуатации-brightgreen)
   ![Type](https://img.shields.io/badge/type-corporate%20website-blue)
