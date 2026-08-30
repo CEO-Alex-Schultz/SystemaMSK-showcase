@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://systemamsk.ru/images/logo.webp" alt="System MSK Logo" width="140"/>
+  <img src="https://systemamsk.ru/images/logo.webp" alt="System MSK Logo" width="340"/>
 
   # Systema MSK - корпоративный сайт IT-интегратора
 
