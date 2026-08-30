@@ -48,11 +48,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## Скриншот
+## Скриншоты
 
 <div align="center">
   <img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/09efdea6-82b6-4672-a6c0-778e8840e18d" />
 <img width="1192" height="935" alt="image" src="https://github.com/user-attachments/assets/8eb8a5b6-a551-45f2-9fba-dcbf49b3cf94" />
+<img width="1724" height="840" alt="image" src="https://github.com/user-attachments/assets/0eb6e093-c448-4281-a4ca-a76c0e34c8a1" />
 
   <br/>
 </div>
