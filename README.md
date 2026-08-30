@@ -52,6 +52,7 @@
 
 <div align="center">
   <img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/09efdea6-82b6-4672-a6c0-778e8840e18d" />
+<img width="1192" height="935" alt="image" src="https://github.com/user-attachments/assets/8eb8a5b6-a551-45f2-9fba-dcbf49b3cf94" />
 
   <br/>
 </div>
