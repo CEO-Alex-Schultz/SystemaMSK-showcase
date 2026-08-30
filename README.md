@@ -51,7 +51,8 @@
 ## Скриншот
 
 <div align="center">
-  <img width="1900" height="939" alt="image" src="https://github.com/user-attachments/assets/20d89443-f869-48af-949f-b48c0c6d1d8b" />
+  <img width="1416" height="802" alt="image" src="https://github.com/user-attachments/assets/09efdea6-82b6-4672-a6c0-778e8840e18d" />
+
   <br/>
 </div>
 
