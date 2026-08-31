@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://systemamsk.ru/images/logo.webp" alt="System MSK Logo" width="340"/>
-  <img width="890" height="464" alt="image-Photoroom" src="https://github.com/user-attachments/assets/666fe86f-113d-4031-8988-db2baf864ed1" />
+  
 
   # System MSK - корпоративный сайт IT-интегратора
 
