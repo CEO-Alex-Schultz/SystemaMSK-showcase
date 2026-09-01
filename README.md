@@ -13,6 +13,18 @@
 
 ---
 
+## Стек
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![PHPMailer](https://img.shields.io/badge/PHPMailer-6C63FF?logo=maildotru&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
+
+
 ## О проекте
 
 Коммерческий сайт для **ООО «Система МСК»** - поставщика серверного и сетевого оборудования, оргтехники и программного обеспечения для государственных и коммерческих заказчиков (работают на рынке с 2015 года, специализация - импортозамещение и комплексные IT-решения «под ключ»).
@@ -45,16 +57,6 @@
 - Прописан полный набор SEO/OG метатегов для корректного отображения в поиске и соцсетях.
 - Настроен хостинг и деплой сайта, ведётся текущая техническая поддержка: правки контента, вёрстки, обновления.
 
-## Стек
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![PHPMailer](https://img.shields.io/badge/PHPMailer-6C63FF?logo=maildotru&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
 
 ## Скриншоты
 
